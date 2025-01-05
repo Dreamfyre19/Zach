@@ -1,0 +1,10 @@
+READ
+READ
+SUB
+JUMP.EQ.0 L
+PRINT "not equal"
+HALT
+
+L1:
+PRINT "equal"
+HALT
